@@ -9,3 +9,9 @@ Completed the design of preliminary 2D drawings of all components of the airfram
 
 # CAED 3D MODEL (PROTOTYPE 1)
 Completed the design of First prototype of 3D part drawings of airframe and propellers of Drone on: 
+
+# CAED MODEL (PROTOTYPE 2)
+Completed the design for Final prototype of 3D part Drawings of all Structural Components of the Drone on:
+
+# PROPELLERS
+Decided to go with 7-Inch 4*3 HQprop propeller as Endurance was greater than the Propeller Initially Designed.
